@@ -1,0 +1,23 @@
+{
+  "name": "seconds-converter",
+  "version": "1.1.0",
+  "description": "Convert milliseconds or seconds to days, hours, minutes, and seconds in node.js. In only 25 lines of code!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nmajor25/seconds-converter"
+  },
+  "keywords": [
+    "seconds",
+    "milliseconds",
+    "days",
+    "time",
+    "convert",
+    "converter",
+    "hours",
+    "minutes"
+  ],
+  "author": "nanmajor <nickmajor159@gmail.com>",
+  "license": "ISC"
+}
