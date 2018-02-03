@@ -1,6 +1,6 @@
 # seconds-converter
 
-Convert milliseconds or seconds to days, hours, minutes, and seconds in node.js. In only 25 lines of code!
+Convert milliseconds or seconds to days, hours, minutes, and seconds in node.js. In only 25 lines of code and no dependencies!
 
 Originally created for use in download eta calculations. But this can be used anywhere there is a need to make seconds or milliseconds human readable.
 
