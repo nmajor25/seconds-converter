@@ -4,12 +4,12 @@ Convert milliseconds or seconds to days, hours, minutes, and seconds in node.js.
 
 Originally created for use in download eta calculations. But this can be used anywhere there is a need to make seconds or milliseconds human readable.
 
-##Installation
+## Installation
 ```js
 npm install seconds-converter
 ```
 
-##API
+## API
 
 ```js
 convertedTime = secondsConverter(number, unitOfTime)
@@ -29,7 +29,7 @@ convertedTime = secondsConverter(number, unitOfTime)
   { days: num, hours: num, minutes: num, seconds: num}
 ```
 
-##Usage
+## Usage
 
 **Using milliseconds**:
 ```js
