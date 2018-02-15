@@ -10,7 +10,7 @@ module.exports = function (number, unit) {
   } else if (unit === 'ms' || unit === 'milliseconds' || !unit) {
     s = Math.floor(number / 1000)
   } else {
-    throw new TypeError('Unit must be 'sec' or 'ms'')
+    throw new TypeError('Unit must be \'sec\' or \'ms\'')
   }
 
   m = Math.floor(s / 60)
